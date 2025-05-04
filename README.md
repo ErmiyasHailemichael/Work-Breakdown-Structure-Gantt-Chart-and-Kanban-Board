@@ -2,7 +2,8 @@
 
 ## Assignment Components
 
-### 1. Work Breakdown Structure (WBS)
+### 1. Work Breakdown Structure (WBS) 
+[View the detailed Work Breakdown Structure](./WBS.md)
 
 #### Decompose Your Project
 - Break your project into phases, deliverables, and tasks
