@@ -85,3 +85,4 @@ Summarize (1 paragraph) how the Kanban board helps visualize:
 [View the detailed Work Breakdown Structure](./kanban.md)
 
 
+[Youtube](https://youtu.be/BUwM3khVX9U)

@@ -38,3 +38,5 @@ This project uses a Kanban board to manage tasks, progress, and blockers through
 ### 📄 Documentation Summary
 
 The Kanban board is an effective way to visualize the project workflow for the Room Rental Website. It provides real-time insight into task progress, highlights bottlenecks (e.g., tasks blocked due to client availability), and helps prioritize what to work on next. As tasks move from **Backlog → To Do → In Progress → Done**, team members can clearly see where the project stands and what’s holding up momentum. The **“Blocked” column** is especially useful for surfacing issues early, enabling better communication with stakeholders and quicker resolution.
+
+[Trello](https://trello.com/invite/b/68181b445d28d59d78bb00de/ATTIef89c91527c4412721a2eb979223081d1D8B81B5/rental-room)
