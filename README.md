@@ -41,7 +41,7 @@ Provide a written explanation (1-2 paragraphs) describing:
   - Specialized Gantt software (e.g., TeamGantt, Smartsheet)
 - Ensure your chart is readable (labels, timelines, progress bars)
   
-[View the detailed Work Breakdown Structure](./)
+[View the detailed Work Breakdown Structure](./Grant.md)
 
 
 #### Documentation
@@ -85,14 +85,3 @@ Summarize (1 paragraph) how the Kanban board helps visualize:
 [View the detailed Work Breakdown Structure](./kanban.md)
 
 
---------------------++++++++++++++++++-----------
-
-| **Tasks**                         | **Target Completion Date** | **Status**     |
-|--------------------------------------|-----------------------------|----------------|
-| Project Kickoff                      | March 30, 2025              | ✅ Completed    |
-| Collect Room Details & Photos        | April 25, 2025              | ⏳ Not Started  |
-| Finalize Wireframes & Design Layout  | April 30, 2025               | ⏳ Planned      |
-| Complete Website Development         | May 7, 2025              | ⏳ Planned      |
-| Mobile Responsiveness & QA Testing   | May 12, 2025              | ⏳ Planned      |
-| Client Review & Feedback Round       | May 20, 2025              | ⏳ Planned      |
-| Final Launch & Deployment            | May 30, 2025              | ⏳ Planned      |
